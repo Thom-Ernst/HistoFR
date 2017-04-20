@@ -44,10 +44,10 @@
     $scope.loadQuiz($scope.quizName);
 
     $scope.isAnswered = function (index) {
-        var answered = 'Not Answered';
+        var answered = 'non répondu';
         $scope.questions[index].options.forEach(function (element, index, array) {
             if (element.selected == true) {
-                answered = 'Answered';
+                answered = 'A répondu';
                 return false;
             }
         });
@@ -55,11 +55,11 @@
     };
 
     $scope.isCorrect = function (question) {
-        var result = 'correct';
+        var result = 'correcte';
         var options = question.options || [];
         options.forEach(function (option, index, array) {
             if ($scope.toBool(option.selected) != option.isAnswer) {
-                result = 'wrong';
+                result = 'faux';
                 return false;
             }
         });
