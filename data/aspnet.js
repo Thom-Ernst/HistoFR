@@ -6,7 +6,7 @@
     },
     "questions": [{
         "Id": 1010,
-        "Name": "ASP.NET webform separates the HTML output from program logic using a feature named as", 
+        "Name": "",
         "QuestionTypeId": 1,
         "Options": [
             { "Id": 1055, "QuestionId": 1010, "Name": "Exception", "IsAnswer": false },
@@ -17,7 +17,7 @@
     },
     {
         "Id": 1011,
-        "Name": "The feature in ASP.NET 2.0 that is used to fire a normal postback to a different page in the application is called", 
+        "Name": "",
         "QuestionTypeId": 1,
         "Options": [
             { "Id": 1055, "QuestionId": 1010, "Name": "Theme", "IsAnswer": false },
@@ -28,7 +28,7 @@
     },
     {
         "Id": 1012,
-        "Name": "What class does the ASP.NET Web Form class inherit from by default?", 
+        "Name": "",
         "QuestionTypeId": 1,
         "Options": [
             { "Id": 1055, "QuestionId": 1010, "Name": "System.Web.UI.Page", "IsAnswer": true },
@@ -39,7 +39,7 @@
     },
     {
         "Id": 1013,
-        "Name": "What does MVC stand for?", 
+        "Name": "",
         "QuestionTypeId": 1,
         "Options": [
             { "Id": 1055, "QuestionId": 1010, "Name": "Model View Controller", "IsAnswer": true },
@@ -50,7 +50,7 @@
     },
     {
         "Id": 1014,
-        "Name": "Which of the following does NOT require type casting?", 
+        "Name": "",
         "QuestionTypeId": 1,
         "Options": [
             { "Id": 1055, "QuestionId": 1010, "Name": "Session", "IsAnswer": false },
@@ -61,7 +61,7 @@
     },
     {
         "Id": 1015,
-        "Name": "Which is the correct order of Page life-cycle in asp.net webform?", 
+        "Name": "",
         "QuestionTypeId": 1,
         "Options": [
             { "Id": 1055, "QuestionId": 1010, "Name": "Init, PreRender, Load", "IsAnswer": false },
@@ -83,7 +83,7 @@
     },
     {
         "Id": 1017,
-        "Name": "Which tag asp:Label control by default renders to?", 
+        "Name": "",
         "QuestionTypeId": 1,
         "Options": [
             { "Id": 1055, "QuestionId": 1010, "Name": "div", "IsAnswer": false },
@@ -94,7 +94,7 @@
     },
     {
         "Id": 1018,
-        "Name": "Which method do you use to explicitly kill a user's session?", 
+        "Name": "",
         "QuestionTypeId": 1,
         "Options": [
             { "Id": 1055, "QuestionId": 1010, "Name": "Session.Terminate()", "IsAnswer": false },
@@ -105,7 +105,7 @@
     },
     {
         "Id": 1019,
-        "Name": "Which of the following object is ideal for keeping data alive for a single request?",
+        "Name": "",
         "QuestionTypeId": 1,
         "Options": [
             { "Id": 1055, "QuestionId": 1010, "Name": "HttpContext", "IsAnswer": true },
